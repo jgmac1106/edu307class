@@ -1,2 +1,2 @@
 # edu307class
-This is my attempt to create a remixable classroom shell
+This is an example of trying to create a really simple class using a Bootstrap framework.
