@@ -12,7 +12,10 @@ Learn more about CSS at
 
 https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
 ***************************/
-
+.div {
+  margin-bottom: 20px;
+{  
+}
 .boxLA {
   text-align: center;
   height: 175px;
