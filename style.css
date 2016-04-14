@@ -12,9 +12,16 @@ Learn more about CSS at
 
 https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
 ***************************/
-.div {
+
+div {
   margin-bottom: 20px;
-{  
+}  
+
+img {
+  margin-bottom: 10px;
+}
+iframe {
+  margin-bottom: 20px;
 }
 .boxLA {
   text-align: center;
